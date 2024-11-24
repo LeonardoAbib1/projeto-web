@@ -14,7 +14,7 @@ React, Redux Toolkit, Node.js, Express, MongoDB, Stripe (Pagamento)
 - Criando o Banco de Dados (MongoDB) (2 pontos): criação e teste do Banco de Dados para o projeto.
 - CRUD completo (2 pontos): criação no back-end das rotas necessárias para o uso de CRUD no banco de dados via API.
 
-## Entregas 1 bimestre
+## Entregas 2 bimestre
 
 - Criando a homepage (2 pontos): desenvolvimento da página inicial usando React.
 - Criando a React Router DOM (2 pontos): definindo o DOM necessário para a página e a estrutura da loja.
